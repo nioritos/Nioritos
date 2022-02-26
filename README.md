@@ -3,7 +3,7 @@
 Web Developer.
 
 [![Twitter Badge](https://img.shields.io/badge/-@nioritos-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/nioritos)](https://twitter.com/nioritos) 
-[![Linkedin Badge](https://img.shields.io/badge/-namelinkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/namelinkedin/)](https://www.linkedin.com/in/linkedin/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Junior%20Guimaraes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junior-guimarães-952625203/)](https://www.linkedin.com/in/junior-guimarães-952625203/)  
 [![Hotmail Badge](https://img.shields.io/badge/-contatonioritos@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contatonioritos@hotmail.com)](mailto:contatonioritos@hotmail.com)
 
 Enthusiast of the best web technologies.
@@ -11,6 +11,8 @@ Enthusiast of the best web technologies.
 In constant evolution, never stop learning!
 
 "I'm nior, you aren't nior."
+
+
 
 ### Hi there 👋
 
