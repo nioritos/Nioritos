@@ -1,5 +1,5 @@
 # 💫 About Me:
-Front-End Developer
+A Front-End Developer always learning, never stop!
 
 
 ## 🌐 Socials:
@@ -17,5 +17,3 @@ Front-End Developer
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nioritos&icon=0&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
